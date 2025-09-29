@@ -1,4 +1,7 @@
-# Real‑Time Fraud Detection — README### OverviewThis repository implements a real‑time fraud detection pipeline that identifies fraudulent card transactions while controlling false positives through threshold tuning and cost‑aware evaluation.
+# Real‑Time Fraud Detection
+
+### Overview
+This repository implements a real‑time fraud detection pipeline that identifies fraudulent card transactions while controlling false positives through threshold tuning and cost‑aware evaluation.
 The solution emphasizes clean preprocessing, interpretable modeling, rigorous validation, and production‑ready packaging for seamless deployment.
 
 ### ProblemBanks must catch fraud with minimal latency and near‑zero misses while keeping investigation queues manageable.
